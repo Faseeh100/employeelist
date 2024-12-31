@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.whole {
+    margin-top: 30px;
+    margin-left: 170px;
+    margin-right: 160px;
+}
+
+.form, .email {
+    margin-top: 30px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.email {
+    line-height: 30px;
+}
+
+.tag {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.i {
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    padding-left: 5px;
+    font-weight: lighter;
+}
+
+.top {
+    margin-top: 70px; 
+}
+
+.sub-btn {
+    margin-top: 20px;
+    padding : 10px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+.sub-btn:hover {
+    background-color: lightgreen;
+}
+
+.set {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.check-btn {
+    padding: 10px 20px;
+    background-color: blue;
+    border: none;
+    color: white; 
+}
+
+.check-btn:hover {
+    background-color: aqua;
+}
